@@ -2,6 +2,46 @@
 
 Este repositorio contiene una lista de comandos útiles de Linux y sus posibles combinaciones.
 
+##  indice de la lista de comandos y un breve resumen:
+
+| Comando | Descripción |
+|---------|-------------|
+| [man](#man) | Muestra el manual de un comando |
+| [cd](#cd) | Cambia el directorio actual al que se indica como argumento |
+| [ls](#ls) | Lista los archivos y directorios |
+| [pwd](#pwd) | Muestra el directorio actual en el que se encuentra el usuario |
+| [less](#less) | Muestra el contenido de un archivo de texto en la terminal |
+| [cat](#cat) | Muestra el contenido de uno o más archivos de texto en la terminal |
+| [file](#file) | Determina el tipo de un archivo examinando su contenido |
+| [ln](#ln) | Crea enlaces entre archivos |
+| [cp](#cp) | Copia uno o más archivos o directorios a otro destino |
+| [mv](#mv) | Mueve o renombra uno o más archivos o directorios |
+| [rm](#rm) | Elimina uno o más archivos o directorios |
+| [mkdir](#mkdir) | Crea uno o más directorios con el nombre que se indica como argumento |
+| [type](#type) | Muestra cómo se interpretaría un comando o palabra clave por el shell |
+| [which](#which) | Muestra la ruta completa de los comandos ejecutables |
+| [help](#help) | Muestra información sobre los comandos integrados del shell |
+| [man](#man) | Muestra el manual de un comando |
+| [find](#find) | Busca archivos o directorios que cumplan con ciertos criterios |
+| [chmod](#chmod) | Cambia los permisos de acceso a los archivos o directorios |
+| [chown](#chown) | Cambia el propietario y/o el grupo de los archivos o directorios |
+| [head](#head) | Muestra las primeras líneas de un archivo o de la entrada estándar |
+| [tail](#tail) | Muestra las últimas líneas de un archivo o de la entrada estándar |
+| [grep](#grep) | Busca patrones en archivos o en la entrada estándar |
+| [ps](#ps) | Muestra los procesos en ejecución |
+| [top](#top) | Muestra la lista de procesos en ejecución en tiempo real |
+| [du](#du) | Muestra el espacio utilizado por archivos y directorios |
+| [df](#df) | Muestra el espacio utilizado y disponible en los sistemas de archivos |
+| [ssh](#ssh) | Inicia una sesión remota segura en un servidor |
+| [scp](#scp) | Copia archivos entre un sistema local y un sistema remoto a través de SSH |
+| [tar](#tar) | Crea o extrae archivos comprimidos en formato tar |
+| [gzip](#gzip) | Comprime o descomprime archivos en formato gzip |
+| [unzip](#unzip) | Descomprime archivos en formato zip |
+| [wget](#wget) | Descarga archivos desde la web |
+| [history](#history) | Muestra el historial de comandos ejecutados anteriormente |
+| [su](#su) | Cambia al usuario superusuario o a otro usuario |
+| [sudo](#sudo) | Ejecuta un comando con privilegios de superusuario |
+
 
 ## man
 
