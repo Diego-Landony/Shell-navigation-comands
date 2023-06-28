@@ -1,4 +1,4 @@
-# Comandos de Linux (spanish)
+# Comandos básicos de Linux (spanish)
 
 Este repositorio contiene una lista de comandos útiles de Linux y sus posibles combinaciones.
 
