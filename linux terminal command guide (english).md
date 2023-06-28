@@ -1,4 +1,4 @@
-# Basic Linux commands (spanish)
+# Basic Linux commands (English)
 This repository contains a list of useful Linux commands and their possible combinations.
 # # command list index and a brief summary:
 | Command | Description | 
